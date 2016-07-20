@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/supermap_iserver_8/support/objectsjava/bin/com.supermap.analyst.addressmatching.jar"/>
+	<classpathentry kind="lib" path="C:/supermap_iserver_8/support/objectsjava/bin/com.supermap.analyst.navigation.jar"/>
+	<classpathentry kind="lib" path="C:/supermap_iserver_8/support/objectsjava/bin/com.supermap.analyst.networkanalyst.jar"/>
+	<classpathentry kind="lib" path="C:/supermap_iserver_8/support/objectsjava/bin/com.supermap.analyst.spatialanalyst.jar"/>
+	<classpathentry kind="lib" path="C:/supermap_iserver_8/support/objectsjava/bin/com.supermap.analyst.terrainanalyst.jar"/>
+	<classpathentry kind="lib" path="C:/supermap_iserver_8/support/objectsjava/bin/com.supermap.analyst.trafficanalyst.jar"/>
+	<classpathentry kind="lib" path="C:/supermap_iserver_8/support/objectsjava/bin/com.supermap.chart.convertion.jar"/>
+	<classpathentry kind="lib" path="C:/supermap_iserver_8/support/objectsjava/bin/com.supermap.chart.jar"/>
+	<classpathentry kind="lib" path="C:/supermap_iserver_8/support/objectsjava/bin/com.supermap.data.conversion.jar"/>
+	<classpathentry kind="lib" path="C:/supermap_iserver_8/support/objectsjava/bin/com.supermap.data.jar"/>
+	<classpathentry kind="lib" path="C:/supermap_iserver_8/support/objectsjava/bin/com.supermap.data.processing.jar"/>
+	<classpathentry kind="lib" path="C:/supermap_iserver_8/support/objectsjava/bin/com.supermap.data.topology.jar"/>
+	<classpathentry kind="lib" path="C:/supermap_iserver_8/support/objectsjava/bin/com.supermap.layout.jar"/>
+	<classpathentry kind="lib" path="C:/supermap_iserver_8/support/objectsjava/bin/com.supermap.license.jar"/>
+	<classpathentry kind="lib" path="C:/supermap_iserver_8/support/objectsjava/bin/com.supermap.mapping.jar"/>
+	<classpathentry kind="lib" path="C:/supermap_iserver_8/support/objectsjava/bin/com.supermap.realspace.jar"/>
+	<classpathentry kind="lib" path="C:/supermap_iserver_8/support/objectsjava/bin/com.supermap.realspace.networkanalyst.jar"/>
+	<classpathentry kind="lib" path="C:/supermap_iserver_8/support/objectsjava/bin/com.supermap.realspace.spatialanalyst.jar"/>
+	<classpathentry kind="lib" path="C:/supermap_iserver_8/support/objectsjava/bin/com.supermap.tilestorage.jar"/>
+	<classpathentry kind="lib" path="C:/supermap_iserver_8/support/objectsjava/bin/com.supermap.ui.controls.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
